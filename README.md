@@ -27,10 +27,10 @@ This Python-based Tic Tac Toe game is a console application that enables users t
 
 To run the game locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/N00B-93/TicTacToe.git`
+1. Clone the repository: `git clone https://github.com/N00B-93/TIC-TAC.git`
 2. Navigate to the project directory.
 3. Ensure you have Python installed.
-4. Run the game using the command: `python tic_tac_toe.py`.
+4. Run the game using the command: `python TIC-TAC-TOE.py`.
 
 ## Usage
 
